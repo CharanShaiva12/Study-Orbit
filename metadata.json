@@ -1,0 +1,6 @@
+{
+  "name": "Study Orbit",
+  "description": "Real-time co-studying arena. Features real-time visual orbital maps of active student study-sessions, synced Pomodoro transitions, active distress SOS signals, and live-generated AI study epiphany summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
